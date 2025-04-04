@@ -1,8 +1,5 @@
 >__Yoshifu__
->> или zerqui
->
->__Заложник монитора__
->> или [инди-разраб](https://telegra.ph/Indi-razrabotchik-03-21)
+>> или [инди-разраб](https://telegra.ph/Indi-razrabotchik-03-21) zerqui
 
 <div id="header">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RsaGlvZ3hxbzNlNXM0MjUyM2p0ZXJteTN2cnVvZDhmc3QwY2QwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eMBuQb8FaRm2boCG5i/giphy.gif" width="200"/>
@@ -12,6 +9,8 @@
 #### Говорить с машинами при помощи <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="Powershell" alt="Powershell" width="35" height="35"/>&nbsp;
 </div>
 
 #### Использую для этого 
@@ -20,13 +19,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="35" height="35"/>&nbsp;
 </div>
-
----
-
-### Cтатистика:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerqui&show_icons=true&theme=blue_navy)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerqui&layout=compact&theme=blue_navy)
 
 ---
 
