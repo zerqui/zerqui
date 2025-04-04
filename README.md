@@ -25,6 +25,7 @@
 
 ### Cтатистика:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerqui&show_icons=true&theme=blue_navy)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerqui&layout=compact&theme=blue_navy)
 
 ---
