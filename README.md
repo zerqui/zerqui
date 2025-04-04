@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="35" height="35"/>&nbsp;
 </div>
 
-#### Юзаю для этого 
+#### Использую для этого 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Windows11" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="35" height="35"/>&nbsp;
@@ -23,12 +23,8 @@
 
 ---
 
-### Cтата:
-#### Гх дефолт
-
+### Cтатистика:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerqui&show_icons=true&theme=blue_navy)
-
-#### Яп
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerqui&layout=compact&theme=blue_navy)
 
 ---
